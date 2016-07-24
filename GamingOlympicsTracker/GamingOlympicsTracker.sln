@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GamingOlympicsTracker", "GamingOlympicsTracker\GamingOlympicsTracker.csproj", "{35C0E6DD-9962-466F-B52D-7E62F32DA71C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GamingOlympics.Data", "GamingOlympics.Data\GamingOlympics.Data.csproj", "{0566B0E6-A411-4111-B717-3A1B20F761D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35C0E6DD-9962-466F-B52D-7E62F32DA71C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35C0E6DD-9962-466F-B52D-7E62F32DA71C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35C0E6DD-9962-466F-B52D-7E62F32DA71C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35C0E6DD-9962-466F-B52D-7E62F32DA71C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0566B0E6-A411-4111-B717-3A1B20F761D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0566B0E6-A411-4111-B717-3A1B20F761D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0566B0E6-A411-4111-B717-3A1B20F761D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0566B0E6-A411-4111-B717-3A1B20F761D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
